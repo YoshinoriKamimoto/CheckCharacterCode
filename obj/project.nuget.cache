@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/CVAhY2PQIF7cdVKCOIQEw+lY9E8uirXwlMITu7AYNKR+Tehd7HNVP3+eu4gJ+axTBUDlzfO9BNHmEK93X8AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kamimoto\\Desktop\\work\\開発\\_個人用\\文字コード確認プログラム\\文字コード確認.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamimoto\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kamimoto\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\kamimoto\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
